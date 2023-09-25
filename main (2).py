@@ -1,4 +1,4 @@
-Class Player:
+class Player:
     def play(self):
         print("The player is playing cricket.")
 
